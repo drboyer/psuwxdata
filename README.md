@@ -17,5 +17,5 @@ Currently, the following 5 entries are added, if available, for each day:
 * Amount of Solid Precipitation (i.e. Snow/Sleet/Hail)
 * Snow Depth
 
-* As mentioned in the project code, the basic framework for this project
+*As mentioned in the project code, the basic framework for this project
 comes from another project on my Github, **[psusnowdepth](https://github.com/drboyer/psusnowdepth/)**.*
